@@ -1,6 +1,6 @@
 // lib/copy.js
 export const copy = {
-  checkoutUrl: "https://www.oriopay.app/p/kozmetika-naturalna",
+  checkoutUrl: "https://www.oriopay.app/p/natuurlijke-cosmetica",
 
   metadata: {
     title: "Gids voor Natuurlijke Cosmetica | PerfuMaria das Ervas",
