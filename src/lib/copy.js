@@ -3,16 +3,16 @@ export const copy = {
   checkoutUrl: "https://www.oriopay.app/p/natuurlijke-cosmetica",
 
   metadata: {
-    title: "Gids voor Natuurlijke Cosmetica | PerfuMaria das Ervas",
+    title: "Gids voor Natuurlijke Cosmetica",
     description:
-      "80 recepten voor 100% natuurlijke cosmetica om thuis te maken. Geteste en bewezen formules voor eigen gebruik of om een bedrijf te starten.",
+      "80 recepten voor 100% natuurlijke cosmetica om thuis te maken. Geteste en bewezen formules voor veilige huidverzorging en het vermijden van giftige chemicaliën.",
   },
 
   hero: {
     headlineLine1: "80 recepten voor",
     headlineHighlight: "NATUURLIJKE COSMETICA",
     subheadline:
-      "Krijg toegang tot geheime recepten voor 100% natuurlijke cosmetica die je gewoon thuis kunt maken! Geteste en bewezen formules voor eigen gebruik of om je eigen bedrijf te starten.",
+      "Krijg toegang tot geheime recepten voor 100% natuurlijke cosmetica die je gewoon thuis kunt maken! Geteste en veilige formules om de gezondheid van je gezin te beschermen en te stoppen met industriële producten vol gifstoffen.",
     cta: "IK WIL NU TOEGANG!",
     imageAlt: "Gids voor natuurlijke cosmetica",
     timerLabels: {
@@ -24,7 +24,7 @@ export const copy = {
   },
 
   story: {
-    text: "Ik ga je nu een praktische, to-the-point en uiterst betrouwbare gids geven waarmee je thuis je eigen 100% natuurlijke cosmetica kunt maken. Zonder een fortuin uit te geven, zonder afhankelijk te zijn van duizenden ingrediënten – en met de mogelijkheid om het zelf te gebruiken, cadeau te doen aan je geliefden of zelfs te verkopen als je een nieuwe inkomstenbron wilt creëren!",
+    text: "Ik ga je nu een praktische, to-the-point en uiterst betrouwbare gids geven waarmee je thuis je eigen 100% natuurlijke cosmetica kunt maken. Zonder een fortuin uit te geven, zonder afhankelijk te zijn van duizenden ingrediënten – en met het plezier om ze voor jezelf te gebruiken, als cadeau te geven aan je dierbaren, en samen te genieten van een 100% veilige en gezonde verzorging!",
     imageAlt: "Natuurlijke cosmetica",
   },
 
@@ -125,19 +125,19 @@ export const copy = {
     cta: "KOOP DE GIDS NU!",
     imageAlt: "Wat je in de gids zult ontdekken",
     items: [
-      "Meer dan 80 geteste en bewezen recepten – inclusief romige scrubzeep, droge gezichtsolie, bodyspray, hittebescherming voor het haar en diverse nieuwe formules.",
-      "Bases voor crèmes, gels, shampoos en zepen – leer veilige en gepersonaliseerde formules maken voor elk huid- en haartype.",
-      "Een complete stap-voor-stap handleiding voor beginners en gevorderden – beheers alles, van de basisconcepten tot de meest complexe technieken.",
-      "Ingrediëntencatalogus – ontdek de voordelen van verschillende natuurlijke grondstoffen om zeer effectieve cosmetica te creëren.",
-      "Fytotherapie toegepast in de cosmetica – hoe je geneeskrachtige planten gebruikt om de werking van je cosmetica te versterken.",
-      "De geheimen van natuurlijk formuleren – pH-waarde aanpassen, conservering, keuze van grondstoffen en effectieve combinaties.",
-      "Tips voor thuis- en professionele productie – richt je eigen atelier voor natuurlijke cosmetica in en verfijn je technieken.",
-      "Duurzaamheid en milieubewustzijn – leer biologisch afbreekbare en ecologische cosmetica te maken.",
+      "Meer dan 80 geteste en bewezen recepten – inclusief romige scrubzeep, droge gezichtsolie, bodyspray, hittebescherming voor het haar en diverse nieuwe innovatieve formules.",
+      "Bases voor crèmes, gels, shampoos en zepen – leer hoe je 100% veilige en gepersonaliseerde formules maakt voor elk huid- en haartype.",
+      "Een complete stap-voor-stap handleiding voor beginners en gevorderden – beheers alles, van de basisconcepten tot de meest complexe cosmetische technieken.",
+      "Ingrediëntencatalogus – ontdek de voordelen van verschillende natuurlijke grondstoffen om hoogwaardige en zuivere cosmetica te creëren.",
+      "Fytotherapie toegepast in de cosmetica – hoe je geneeskrachtige planten gebruikt om de werking van je cosmetica maximaal te versterken.",
+      "De geheimen van natuurlijk formuleren – pH-waarde aanpassen, natuurlijke conservering, keuze van grondstoffen en de meest effectieve combinaties.",
+      "Tips voor de perfecte thuisproductie – tover je keuken om tot een veilige plek om schone cosmetica te creëren en verfijn je technieken.",
+      "Duurzaamheid en milieubewustzijn – leer volledig biologisch afbreekbare en ecologische cosmetica te maken die vriendelijk is voor onze planeet.",
     ],
   },
 
   testimonials: {
-    headline: "BEKIJK WAT ANDEREN ZEGGEN OVER DE GIDS VOOR NATUURLIJKE COSMETICA:",
+    headline: "BEKIJK WAT ANDERE VROUWEN ZEGGEN DIE DE GIDS AL GEBRUIKEN:",
     cta: "IK WIL NU TOEGANG!",
     cards: [
       {
@@ -145,7 +145,7 @@ export const copy = {
         initials: "SM",
         color: "#16a34a",
         stars: 5,
-        text: "Ik ben helemaal weg van deze gids! Ik heb de kalmerende bodycrème en de gezichtszeep al gemaakt en ze zijn fantastisch geworden. Veel beter dan de industriële producten die ik voorheen gebruikte. Een echte aanrader!",
+        text: "Ik ben helemaal weg van deze gids! Ik heb de kalmerende bodycrème en de gezichtszeep al gemaakt en ze zijn fantastisch geworden. Veel beter dan de industriële producten die ik voorheen gebruikte. Een echte aanrader voor iedereen!",
         source: "WhatsApp",
       },
       {
@@ -153,7 +153,7 @@ export const copy = {
         initials: "LV",
         color: "#0f766e",
         stars: 5,
-        text: "Wauw, wat een geweldige gids! De recepten zijn super gedetailleerd en makkelijk te volgen. Ik heb zelfs al wat producten aan vriendinnen verkocht en ze zijn er dol op. Het is elke cent waard!",
+        text: "Meiden, wat een geweldige gids! De recepten zijn super gedetailleerd en makkelijk te volgen. Ik heb al een paar producten gemaakt als cadeau voor vriendinnen en ze zijn er dol op. Het is elke cent waard!",
         source: "WhatsApp",
       },
       {
@@ -169,83 +169,83 @@ export const copy = {
         initials: "AK",
         color: "#b45309",
         stars: 5,
-        text: "Wat een geweldige investering! Dankzij de gids heb ik geleerd hoe ik een shampoobar en solid conditioner moet maken. Mijn haar is veel gezonder en ik bespaar elke maand een hoop geld. Bedankt!",
+        text: "Wat een geweldige investering! Dankzij de gids heb ik eindelijk geleerd hoe ik een shampoobar en solid conditioner moet maken. Mijn haar is helemaal opgeleefd, het is veel gezonder en ik bespaar elke maand een hoop geld op verzorgingsproducten. Bedankt!",
         source: "WhatsApp",
       },
     ],
   },
 
   autonomyIntro: {
-    text1: "Met de Gids voor Natuurlijke Cosmetica leer je jouw cosmetica helemaal vanaf nul te maken.",
-    text2: "Je leert stap voor stap hoe je natuurlijke ingrediënten kiest, formules aanpast voor verschillende huid- en haartypes, en producten personaliseert naar jouw eigen wensen.",
-    text3: "Daarnaast krijg je het vertrouwen en de onafhankelijkheid om zelf formules te bedenken. Je kunt recepten testen en aanpassen om unieke producten met een eigen identiteit te creëren. Dankzij de uitgebreide catalogus van natuurlijke grondstoffen leer je de beste ingrediënten kennen en ontdek je de ideale combinaties voor elk cosmetisch product.",
+    text1: "Met de Gids voor Natuurlijke Cosmetica leer je jouw producten helemaal vanaf nul te maken.",
+    text2: "Je leert stap voor stap hoe je bewust natuurlijke ingrediënten kiest, formules aanpast voor verschillende huidtypes en haarporositeit, en producten personaliseert zodat ze perfect aansluiten bij jouw behoeften.",
+    text3: "Je krijgt het vertrouwen en de volledige onafhankelijkheid om zelf formules te ontwikkelen. Je zult recepten kunnen testen en verfijnen om unieke cosmetica met een eigen karakter te creëren. Dankzij de zeer uitgebreide catalogus van natuurlijke grondstoffen leer je de beste ingrediënten kennen en ontdek je de ideale combinaties voor elk type product.",
     cta: "KOOP DE GIDS NU!",
-    imageAlt: "Onafhankelijkheid in natuurlijke cosmetica",
+    imageAlt: "Onafhankelijkheid in het maken van natuurlijke cosmetica",
   },
 
   benefitsList: {
-    headline: "Onafhankelijkheid en creativiteit in de natuurlijke cosmetica!",
+    headline: "Onafhankelijkheid en creativiteit in de wereld van natuurlijke verzorging!",
     cta: "IK WIL NU TOEGANG!",
     items: [
       {
         bold: "Leer hoe je zelf",
-        rest: " crèmes, serums, shampoos, zepen en nog veel meer maakt.",
+        rest: " crèmes, serums, shampoos, zepen en nog veel meer verzorgingsproducten maakt.",
       },
       {
-        bold: "Ontdek hoe je",
-        rest: " de juiste ingrediënten kiest voor elke specifieke behoefte.",
+        bold: "Ontdek hoe je foutloos",
+        rest: " de juiste ingrediënten kiest voor elke specifieke behoefte van huid en haar.",
       },
       {
-        bold: "Word onafhankelijk van de commerciële cosmetica-industrie en",
-        rest: " ontwikkel gepersonaliseerde formules.",
+        bold: "Bevrijd jezelf van industriële chemicaliën en",
+        rest: " ontwikkel 100% gepersonaliseerde, natuurlijke formules.",
       },
       {
         bold: "Verdiep je in fytotherapie voor cosmetica,",
-        rest: " en profiteer van de therapeutische eigenschappen van geneeskrachtige planten.",
+        rest: " en maak volop gebruik van de helende eigenschappen van kruiden en extracten.",
       },
       {
-        bold: "Bespaar kosten",
-        rest: " door je eigen cosmetica te maken, zonder in te leveren op kwaliteit.",
+        bold: "Verlaag je uitgaven aanzienlijk",
+        rest: " door je eigen cosmetica te maken, zonder ook maar iets in te leveren op kwaliteit.",
       },
       {
-        bold: "Krijg toegang tot professionele formules",
-        rest: " en leer hoe je veilig de beste producten maakt.",
+        bold: "Krijg toegang tot professionele recepturen",
+        rest: " en leer hoe je veilig producten van de allerhoogste kwaliteit maakt.",
       },
       {
-        bold: "Onderscheid jezelf in de markt voor natuurlijke schoonheid,",
-        rest: " een sector die enorm groeit en duurzame producten waardeert.",
+        bold: "Geef je huid de allerbeste verzorging,",
+        rest: " precies wetende welke pure ingrediënten je gebruikt.",
       },
       {
-        bold: "Leer hoe je een cosmetica-atelier aan huis opzet,",
-        rest: " met praktische tips voor het inrichten van je werkruimte.",
+        bold: "Bescherm de gezondheid van je gezin",
+        rest: " met producten die vrij zijn van schadelijke conserveermiddelen en kunstmatige kleurstoffen.",
       },
     ],
   },
 
   economy: {
-    headline: "Besparen én zakelijke kansen in de natuurlijke markt!",
-    text1: "Het maken van je eigen natuurlijke cosmetica is een geweldige kans, zowel om geld te besparen als om een bedrijf te starten. Met de Gids voor Natuurlijke Cosmetica leer je hoogwaardige producten te maken tegen een lage prijs. Zo vermijd je de torenhoge kosten van conventionele producten en investeer je in betaalbare, effectieve natuurlijke ingrediënten.",
-    text2: "Mocht je een eigen bedrijf willen starten, dan is dit een waardevolle gids voor het opzetten van een duurzame en winstgevende onderneming. Met exclusieve formules en praktische tips over conservering, verpakking en marketing, kun je je eigen merk voor natuurlijke cosmetica lanceren. Zo bied je handgemaakte producten aan die perfect inspelen op de trend van bewust en ecologisch consumeren.",
-    cta: "KOOP DE GIDS NU!",
-    imageAlt: "Ondernemen in de natuurlijke markt",
+    headline: "Geld besparen en gezonde verzorging zonder een grammetje chemie!",
+    text1: "Het maken van je eigen natuurlijke cosmetica is de beste manier om je huid te beschermen en tegelijkertijd enorm veel geld te besparen. Met de Gids voor Natuurlijke Cosmetica leer je hoe je producten van topkwaliteit produceert voor een fractie van de prijs van drogisterijartikelen. Zo voorkom je dat je te veel betaalt voor commerciële cosmetica vol chemicaliën, en investeer je in betaalbare, schone en zeer effectieve natuurlijke grondstoffen.",
+    text2: "Dit is jouw onmisbare handboek in de overstap naar een gezondere levensstijl. Dankzij de exclusieve recepten krijg je de volledige controle terug over wat je op je lichaam smeert. Je kunt genieten van handgemaakte producten die 100% veilig, milieuvriendelijk en zacht zijn voor zowel je huid als voor de planeet.",
+    cta: "IK BEGIN MET MAKEN!",
+    imageAlt: "Gezonde verzorging",
   },
 
   finalCta: {
     urgencyLabel: "LAATSTE DAG OM TE BESTELLEN",
-    urgencySub: "voor de actieprijs!",
+    urgencySub: "voor de speciale actieprijs!",
     urgencyText:
-      "Dit is je laatste kans om te profiteren van onze speciale aanbieding en deel uit te maken van onze community met duizenden tevreden cursisten!",
+      "Dit is je absolute laatste kans om te profiteren van onze uitzonderlijke aanbieding en je aan te sluiten bij duizenden enthousiaste cursisten!",
     offerPrice: "9.90 €",
     button: "KRIJG NU TOEGANG!",
     productTitle: "Gids voor Natuurlijke Cosmetica!",
     imageAlt: "Gids voor natuurlijke cosmetica",
     bundleList: [
       "80 recepten voor natuurlijke cosmetica",
-      "Compleet lesmateriaal",
-      "Educatieve grondstoffencatalogus",
-      "Community van cursisten",
-      "Gespecialiseerde ondersteuning voor al je vragen",
-      "Lijst met leveranciers",
+      "Uitgebreid stap-voor-stap handboek",
+      "Educatief lexicon van grondstoffen",
+      "Toegang tot een besloten community",
+      "Ondersteuning van experts bij al je vragen",
+      "Geverifieerde en betrouwbare leverancierslijst",
     ],
     timerLabels: {
       days: "Dagen",
@@ -256,8 +256,6 @@ export const copy = {
   },
 
   footer: {
-    tagline: "Ontdek hoe je de perfecte natuurlijke cosmetica maakt!",
-    linkLabel: "Complete cursus natuurlijke cosmetica",
-    linkHref: "https://www.perfumariadaservas.shop",
+    tagline: "Ontdek samen met ons hoe je de perfecte natuurlijke cosmetica maakt!",
   },
 };
